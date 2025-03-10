@@ -58,27 +58,6 @@ Options:
 
 The script splits files at paragraph boundaries (double line breaks) to ensure content isn't cut off mid-paragraph.
 
-## Features
-
-### Concat Files
-
-- Works with all text files in a directory
-- Customizable delimiter
-- Source filename annotations
-- Handles encoding issues gracefully
-- Simple command-line interface
-- Falls back to non-text files if no .txt files are found
-
-### Split File
-
-- Splits at paragraph boundaries (double line breaks)
-- Supports human-readable size formats (B, KB, MB, GB)
-- Handles encoding issues gracefully
-- Creates output files with sequential numbering
-- Shows progress information and output file sizes
-- Customizable output directory and filename prefix
-
-## Example Workflows
 
 ## License
 
